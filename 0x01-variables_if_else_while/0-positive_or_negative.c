@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - Prints a random number and states whether
- *        it is positive, negative, or zero.
+ * main - Entry point
  *
- * Return: Always 0.
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
